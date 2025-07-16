@@ -18,7 +18,7 @@ This project aims to analyze the heart disease dataset from the UCI Machine Lear
 
 ## Problem Statement
 
-Heart disease remains a leading cause of morbidity and mortality worldwide. Early detection and intervention are crucial in reducing the impact of heart disease. However, accurately identifying patients at risk is challenging due to the complexity of risk factors involved.
+- Heart disease remains a leading cause of morbidity and mortality worldwide. Early detection and intervention are crucial in reducing the impact of heart disease. However, accurately identifying patients at risk is          challenging due to the complexity of risk factors involved.
 
 ## Solution Approach
 
@@ -45,7 +45,7 @@ Heart disease remains a leading cause of morbidity and mortality worldwide. Earl
 
 **Data Origin:** [Kaggle UCI Heart Disease](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/data)
 
-**Files:**
+**The dataset includes clinical features from patients, such as:**
   - id (Unique id for each patient)
   - age (Age of the patient in years)
   - origin (place of study)
