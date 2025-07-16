@@ -66,7 +66,7 @@ This project aims to analyze the heart disease dataset from the UCI Machine Lear
 ## Technologies Used
 
 - **Programming & Libraries:** Python, Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly.
-- **Modeling Approaches:** Regression algorithms (Logistic Regression, Decision Tree, Random Forest, SVM, K-Means Clustering, Hierarchical Clustering).
+- **Modeling Approaches:** Logistic Regression, Decision Tree, Random Forest, SVM, K-Means Clustering, Hierarchical Clustering.
 - **Version Control & Collaboration:** Git, GitHub Projects.
   
 ## How to Run
